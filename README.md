@@ -1,16 +1,8 @@
-# yaro
+# Investment App frontend
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/96309032/210620991-6417f252-5526-4e1c-b072-e3738b06b40c.jpg" width = 300></img>
+<img src = "https://user-images.githubusercontent.com/96309032/210620958-4cee2479-4042-4ecb-bb8e-9010debcedac.jpg" width = 300></img>
